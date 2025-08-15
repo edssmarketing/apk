@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">MidiaIndoor Player</string>
+    <string name="player_url">https://midiaindoor.edssmarketing.com.br/public/player.php</string>
+</resources>
